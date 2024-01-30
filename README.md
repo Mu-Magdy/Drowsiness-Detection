@@ -48,7 +48,7 @@ Drowsiness Detection using YOLO is a computer vision project aimed at detecting 
 5. The application will launch a webcam feed or video stream, and it will detect drowsiness in real-time by analyzing the eyes of individuals.
 
 ### Project Structure:
-- `drowsiness_detection.py`: Main Python script for running the drowsiness detection application.
+- `Drowsiness_detecor.ipynb`: Main notebook for running the drowsiness detection application.
 - `README.md`: Readme file containing project information and instructions.
 
 ### Credits:
